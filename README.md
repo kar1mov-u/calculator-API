@@ -1,0 +1,1 @@
+This is simple stateless API that simulates basic calculator with GO.
